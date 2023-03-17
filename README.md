@@ -373,15 +373,4 @@ No.|title | 地址
 [音视频信号采集压缩及传输系统的设计与实现](https://github.com/0voice/ffmpeg_develop_doc/blob/main/%E9%9F%B3%E8%A7%86%E9%A2%91%E4%BF%A1%E5%8F%B7%E9%87%87%E9%9B%86%E5%8E%8B%E7%BC%A9%E5%8F%8A%E4%BC%A0%E8%BE%93%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.pdf)
 
 
-## 联系专栏
-
-#### [【免费】FFmpeg/WebRTC/RTMP/NDK/Android音视频流媒体高级开发](https://ke.qq.com/course/3202131?flowToken=1035265)
-
-#### ffmpeg学习资料包：ffmpeg入门系列教程
-
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/148544835-6355a58e-73ff-4d99-905f-6a22db167c3c.jpg"/>
-
-#### 关注微信公众号【后台服务架构师】——【联系我们】，免费获取更多FFmepg学习资料！
-
-<img width="65%" height="65%" src="https://user-images.githubusercontent.com/87457873/130796999-03af3f54-3719-47b4-8e41-2e762ab1c68b.png"/>
 
